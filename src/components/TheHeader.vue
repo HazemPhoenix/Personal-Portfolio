@@ -1,15 +1,14 @@
 <template>
   <header
-    class="w-full md:w-8/12 mx-auto mt-32 text-center dark:text-white text-gray-800"
+    class="w-full md:w-9/12 mx-auto mt-32 text-center dark:text-white text-gray-800"
   >
     <p
       class="text-sm tracking-widest dark:text-gray-400 text-gray-800 uppercase"
     >
       Dynamic Web Magic with Vue.js and Laravel
     </p>
-    <h1 class="text-5xl md:text-6xl font-bold mt-4">
-      Transforming Concepts into <br />
-      Seamless
+    <h1 class="text-3xl md:text-6xl font-bold mt-4">
+      Transforming Concepts into Seamless
       <span class="dark:text-[#CBACF9] text-[#7519ff]">User Experiences</span>
     </h1>
     <p class="text-lg dark:text-gray-400 text-gray-800 mt-4">
