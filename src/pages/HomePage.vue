@@ -1,5 +1,7 @@
 <template>
-  <div class="bg-[#000319] text-white h-[100vh] pt-10">
+  <div
+    class="bg-[#000319] text-white w-full min-h-screen flex flex-col px-2 md:px-0"
+  >
     <TheNavbar current="about" />
     <TheHeader />
     <TheMainSection />

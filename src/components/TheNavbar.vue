@@ -1,6 +1,6 @@
 <template>
   <nav
-    class="border-1 border-[#6971A229] text-[#C1C2D3] w-fit rounded-[13px] mx-auto py-5 bg-linear-to-r from-[#04071D] to-[#0C0E23] px-10 flex justify-around gap-7 sticky"
+    class="border-1 border-[#6971A229] text-[#C1C2D3] w-fit rounded-[13px] mx-auto py-5 bg-linear-to-r from-[#04071D] to-[#0C0E23] px-10 flex justify-around gap-7 sticky top-10"
   >
     <a
       href="about"
