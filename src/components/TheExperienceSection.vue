@@ -27,25 +27,25 @@ export default {
           title: "Frontend Trainee",
           description:
             "Gained hands-on experience in frontend technologies and frameworks.",
-          src: "../../assets/svg/experience/_Group_.svg",
+          src: "../../../public/svg/experience/_Group_.svg",
         },
         {
           title: "Full Stack Developer Intern",
           description:
             "Worked on various projects, enhancing skills in both frontend and backend development.",
-          src: "../../assets/svg/experience/_Group_-1.svg",
+          src: "../../../public/svg/experience/_Group_-1.svg",
         },
         {
           title: "Backend Java Developer Intern",
           description:
             "Developed backend solutions using Java and Spring Boot.",
-          src: "../../assets/svg/experience/Frame 5.svg",
+          src: "../../../public/svg/experience/Frame 5.svg",
         },
         {
           title: "Backend Java Developer",
           description:
             "Contributed to backend development projects, focusing on Java and Spring Boot.",
-          src: "../../assets/svg/experience/Rectangle.svg",
+          src: "../../../public/svg/experience/Rectangle.svg",
         },
       ],
     };

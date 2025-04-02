@@ -5,7 +5,7 @@
     </p>
     <div class="flex items-center mt-4 space-x-3 justify-center">
       <img
-        src="@/assets/images/reviewer.png"
+        src="../../../public/images/reviewer.png"
         alt="Client"
         class="w-10 h-10 rounded-full"
       />
