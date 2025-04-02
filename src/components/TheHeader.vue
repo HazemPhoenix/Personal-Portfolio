@@ -1,6 +1,6 @@
 <template>
   <header
-    class="md:h-[100vh] md:w-9/12 mx-auto mt-32 text-center dark:text-white text-gray-800"
+    class="md:h-[100vh] md:w-9/12 mx-auto mt-32 md:mt-52 text-center dark:text-white text-gray-800"
   >
     <p
       class="text-sm tracking-widest dark:text-gray-400 text-gray-800 uppercase"
@@ -15,10 +15,12 @@
       Hi! I'm <span class="font-semibold">Hazem Abdulmoneim</span>, a
       Laravel/Vue.js Developer based in Egypt
     </p>
-    <BaseButton class="w-full md:w-auto">
-      See my work
-      <img src="../assets/svg/Arrow.svg" alt="" class="ps-2" />
-    </BaseButton>
+    <a href="https://github.com/HazemPhoenix" target="_blank">
+      <BaseButton class="w-full md:w-auto">
+        See my work
+        <img src="../assets/svg/Arrow.svg" alt="" class="ps-2" />
+      </BaseButton>
+    </a>
   </header>
 </template>
 

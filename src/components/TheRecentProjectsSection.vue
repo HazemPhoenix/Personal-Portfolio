@@ -1,5 +1,5 @@
 <template>
-  <section class="mt-20 flex flex-col gap-5 md:gap-10">
+  <section class="mt-20 flex flex-col gap-5 md:gap-10" id="projects">
     <h2 class="text-center text-2xl md:text-5xl font-bold">
       A small selection of
       <span class="text-[#7519ff] dark:text-[#CBACF9]">recent projects</span>

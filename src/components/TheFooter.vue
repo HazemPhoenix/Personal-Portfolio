@@ -1,5 +1,5 @@
 <template>
-  <div></div>
+  <footer id="contact"></footer>
 </template>
 
 <script>
