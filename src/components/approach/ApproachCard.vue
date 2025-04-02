@@ -1,6 +1,6 @@
 <template>
   <div
-    class="relative flex justify-center items-center h-[60vh] border-1 md:w-1/3 border-gray-400 dark:border-[#3637496E] rounded-xl bg-linear-to-r from-gray-100 to-gray-200 dark:from-[#04071D] dark:to-[#0C0E23]"
+    class="relative flex justify-center items-center h-[60vh] border-1 md:w-1/3 border-gray-400 dark:border-[#3637496E] rounded-xl bg-linear-to-r from-gray-80 to-gray-200 dark:from-[#04071D] dark:to-[#0C0E23]"
     id="card-container"
   >
     <div
@@ -62,23 +62,23 @@ export default {
 }
 
 #card-container::before {
-  top: -10px;
-  left: -10px;
+  top: -8px;
+  left: -8px;
 }
 
 #card-container::after {
-  top: -10px;
-  right: -10px;
+  top: -8px;
+  right: -8px;
 }
 
 #card-container > div::before {
-  bottom: -10px;
-  left: -10px;
+  bottom: -8px;
+  left: -8px;
 }
 
 #card-container > div::after {
-  bottom: -10px;
-  right: -10px;
+  bottom: -8px;
+  right: -8px;
 }
 
 #card-container:hover::before {
