@@ -1,6 +1,6 @@
 <template>
   <main
-    class="grid md:grid-cols-5 md:grid-rows-4 gap-6 mt-20 md:mt-48 text-white dark:bg-[#000319]"
+    class="grid md:grid-cols-5 md:grid-rows-4 gap-6 mt-20 md:mt-0 text-white dark:bg-[#000319]"
   >
     <div
       class="h-[30vh] md:h-[64vh] bg-[url(../assets/images/laptop.png)] bg-cover rounded-[23px] md:col-span-3 md:row-span-2"

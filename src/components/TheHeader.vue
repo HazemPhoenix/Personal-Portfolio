@@ -1,6 +1,6 @@
 <template>
   <header
-    class="md:w-9/12 mx-auto mt-32 text-center dark:text-white text-gray-800"
+    class="md:h-[100vh] md:w-9/12 mx-auto mt-32 text-center dark:text-white text-gray-800"
   >
     <p
       class="text-sm tracking-widest dark:text-gray-400 text-gray-800 uppercase"
