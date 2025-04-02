@@ -1,6 +1,6 @@
 <template>
   <header
-    class="w-full md:w-9/12 mx-auto mt-32 text-center dark:text-white text-gray-800"
+    class="md:w-9/12 mx-auto mt-32 text-center dark:text-white text-gray-800"
   >
     <p
       class="text-sm tracking-widest dark:text-gray-400 text-gray-800 uppercase"
@@ -15,15 +15,15 @@
       Hi! I'm <span class="font-semibold">Hazem Abdulmoneim</span>, a
       Laravel/Vue.js Developer based in Egypt
     </p>
-    <button
-      class="w-full md:w-auto mt-6 px-[40px] py-[22px] bg-linear-to-r from-[#161A31] to-[#06091F] hover:bg-linear-to-l hover:cursor-pointer rounded-[14px] text-white font-medium flex items-center justify-center mx-auto"
-    >
+    <BaseButton class="w-full md:w-auto">
       See my work
       <img src="../assets/svg/Arrow.svg" alt="" class="ps-2" />
-    </button>
+    </BaseButton>
   </header>
 </template>
 
 <script>
+import BaseButton from "./base/BaseButton.vue";
+
 export default {};
 </script>

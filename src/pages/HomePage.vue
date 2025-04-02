@@ -1,10 +1,8 @@
 <template>
-  <!-- Parent container to hold the grid/spotlight overlay -->
   <div
-    class="relative w-full min-h-screen bg-[#000319] text-white overflow-hidden absolute z-50"
+    class="relative w-full min-h-screen bg-gray-100 text-gray-800 dark:bg-[#000319] dark:text-white overflow-hidden z-50 px-5 md:px-20"
   >
-    <!-- The pseudo-element (for the grid + spotlights) is added in <style> below -->
-
+    <ToggleDarkMode />
     <TheNavbar current="about" />
     <TheHeader />
     <TheMainSection />
@@ -25,6 +23,7 @@ import TheHeader from "@/components/TheHeader.vue";
 import TheMainSection from "@/components/TheMainSection.vue";
 import TheNavbar from "@/components/TheNavbar.vue";
 import TheRecentProjectsSection from "@/components/TheRecentProjectsSection.vue";
+import ToggleDarkMode from "@/components/ToggleDarkMode.vue";
 
 export default {
   components: {
@@ -36,6 +35,7 @@ export default {
     TheExperienceSection,
     TheApproachSection,
     TheFooter,
+    ToggleDarkMode,
   },
 };
 </script>
@@ -53,14 +53,14 @@ export default {
       rgba(255, 255, 255, 0.04) 0,
       rgba(255, 255, 255, 0.04) 1px,
       transparent 1px,
-      transparent 80px
+      transparent 90px
     ),
     repeating-linear-gradient(
       to right,
       rgba(255, 255, 255, 0.04) 0,
       rgba(255, 255, 255, 0.04) 1px,
       transparent 1px,
-      transparent 80px
+      transparent 90px
     );
 }
 </style>
