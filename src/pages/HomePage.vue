@@ -3,7 +3,7 @@
     class="relative w-full min-h-screen bg-gray-100 text-gray-800 dark:bg-[#000319] dark:text-white overflow-hidden z-50 px-5 md:px-20"
   >
     <ToggleDarkMode />
-    <TheNavbar current="about" />
+    <TheNavbar />
     <TheHeader />
     <TheMainSection />
     <TheRecentProjectsSection />
