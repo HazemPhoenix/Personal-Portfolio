@@ -3,7 +3,7 @@
     class="border-1 border-gray-400 dark:border-[#3637496E] rounded-xl flex flex-col gap-5 py-5 px-4 bg-linear-to-r from-gray-100 to-gray-200 dark:from-[#04071D] dark:to-[#0C0E23]"
   >
     <div class="rounded-xl overflow-hidden">
-      <img :src="imageURL" :alt="alt" />
+      <img :src="src" :alt="alt" />
     </div>
     <h2 class="text-[24px] md:size-[32px] text-gray-800 dark:text-white">
       {{ title }}
@@ -14,7 +14,7 @@
     <div class="flex justify-between">
       <div class="flex">
         <div
-          v-for="(technology, index) in technologiesURLS"
+          v-for="(technology, index) in technologies"
           :key="index"
           class="w-8 h-8 flex-shrink-0 border-1 border-[#3637496E] rounded-full p-1"
         >
@@ -47,26 +47,7 @@
 export default {
   props: ["src", "alt", "title", "description", "link", "technologies"],
   data() {
-    return {
-      imageURL: "",
-      technologiesURLS: [],
-    };
-  },
-  beforeMount() {
-    this.importImage();
-    this.importTechnologies();
-  },
-  methods: {
-    async importImage() {
-      const image = await import(`${this.src}`);
-      this.imageURL = image.default;
-    },
-    async importTechnologies() {
-      for (const [key, value] of Object.entries(this.technologies)) {
-        const image = await import(`${value}`);
-        this.technologiesURLS.push(image.default);
-      }
-    },
+    return {};
   },
 };
 </script>
