@@ -7,9 +7,9 @@
     <TheHeader />
     <TheMainSection />
     <TheRecentProjectsSection />
+    <TheFeedbackSection />
     <TheExperienceSection />
     <TheApproachSection />
-    <TheFeedbackSection />
     <TheFooter />
   </div>
 </template>

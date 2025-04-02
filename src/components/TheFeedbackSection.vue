@@ -1,7 +1,7 @@
 <template>
   <section
     id="testimonials"
-    class="py-12 px-6 dark:text-white text-center flex flex-col gap-10"
+    class="py-12 px-6 dark:text-white text-center flex flex-col gap-10 mt-10"
   >
     <h2 class="text-center text-2xl md:text-5xl font-bold">
       Kind words from
@@ -9,7 +9,7 @@
     </h2>
     <div class="relative max-w-4xl mx-auto">
       <div
-        class="overflow-hidden relative rounded-lg bg-linear-to-r from-gray-100 to-gray-200 dark:from-[#04071D] dark:to-[#0C0E23] p-6 min-h-[200px] backdrop-blur-lg"
+        class="overflow-hidden relative rounded-lg bg-gray-200 dark:bg-linear-to-r dark:from-[#04071D] dark:to-[#0C0E23] p-6 min-h-[200px] backdrop-blur-lg"
       >
         <div class="absolute inset-0 overflow-hidden">
           <div
