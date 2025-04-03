@@ -27,25 +27,25 @@ export default {
           title: "Frontend Trainee",
           description:
             "Gained hands-on experience in frontend technologies and frameworks.",
-          src: "https://d23j1yojw6x37d.cloudfront.net/w1jyp7%2Fpreview%2F65865259%2Fmain_large.png?response-content-disposition=inline%3Bfilename%3D%22main_large.png%22%3B&response-content-type=image%2Fpng&Expires=1743632593&Signature=JANH-zBaEkmoFFqaHP6H4~XKqlpeFu7OYD4xlpPnoLnf36F7lU2c1d-LKuR9OOAakM8Mu0HA6toeu968-~m4gsqMYrTQnvjFHIugkY1q~VgbunzOr9z-v2MYLLueP3TCvNPtDoTEeAShlAzzSVQg-5iPbmQpAPKg7rapEQckehKWRBf4jWyA-SBeEt5C2dSLsMSUINtOYBI48yDtpFf7AFmeQiqWkkjS5bKkcevqRIT-m9k7xcoKC~bV1m3y7XoY5-sejm4i3orSKirtk2Nv7HN9OHGIhmUzmo~d5WuWPCMyCLm2K1BRrSTmxlMDeAa5LysvU9BGp3hgaR2-N2ADZw__&Key-Pair-Id=APKAJT5WQLLEOADKLHBQ",
+          src: "https://scontent.fcai21-2.fna.fbcdn.net/v/t1.15752-9/487003030_826246166390561_4167430245063356735_n.png?stp=cp0_dst-png&_nc_cat=111&ccb=1-7&_nc_sid=9f807c&_nc_ohc=XOD82qUAVtoQ7kNvgFuv7aL&_nc_oc=AdlK-vY7QOvgfUEWr1UPQZwVTuyoquxmANiOIcXHqIs8DpTsE0IEgwh-nZCLGeU_a54&_nc_zt=23&_nc_ht=scontent.fcai21-2.fna&oh=03_Q7cD1wGfczSqvnf_3YlLv8uDZ2B0Lrn_K5l0STT_TFXFoO5_4A&oe=68152F90",
         },
         {
           title: "Full Stack Developer Intern",
           description:
             "Worked on various projects, enhancing skills in both frontend and backend development.",
-          src: "https://dxnxre0ffcj8a.cloudfront.net/z4gvp7%2Fpreview%2F65865148%2Fmain_large.png?response-content-disposition=inline%3Bfilename%3D%22main_large.png%22%3B&response-content-type=image%2Fpng&Expires=1743632618&Signature=Zb1~~1KZrogJEHSepWE~~rwZ8KIzDpy~lWpvgjcokv15rJdz6-dR2uyME3ClS1t2S7Na9TcUUsfv8l2Pw4qG6qPUh~d266utelYGe5zZQZLfE8QoMGlGgDh3a4talpigKVQq3y-SaE1zDNbi6kMLZ8l-or6NkrXTGRDnNXi2LKLJlX1yqqtZQGJegNmsC55N657clOm1zstSzyOnJp4X0zYvjW0VWj0XN~0acMTMoF2yUY4iHfMvPLgZrUgfgmzhrL2VIHj8wAo5I-axNcC3o~mOIHGZd~KVpPJeoHFrpSHbtCq7pcrlz1YfB~9CGppdvg2azrXp5tkY22rU5xDmbQ__&Key-Pair-Id=APKAJT5WQLLEOADKLHBQ",
+          src: "https://scontent.fcai21-3.fna.fbcdn.net/v/t1.15752-9/487808529_9615873915144605_1033500959259285034_n.png?_nc_cat=107&ccb=1-7&_nc_sid=9f807c&_nc_ohc=exWKeROTsw4Q7kNvgGlczrL&_nc_oc=Adl6BaRXmlvPm0jz5JhnOoyR-UNe4XYcODC4iBZ-U4ZgsIyD-f_VmIdB4tIMSMXLfz8&_nc_zt=23&_nc_ht=scontent.fcai21-3.fna&oh=03_Q7cD1wGqqYO8zLYsPvOvjeA3zAODwk1vW_ye4uLkfoeWmvmeZg&oe=681545B4",
         },
         {
           title: "Backend Java Developer Intern",
           description:
             "Developed backend solutions using Java and Spring Boot.",
-          src: "https://d2a0js77mxcrjd.cloudfront.net/b96xp7%2Fpreview%2F65865210%2Fmain_large.png?response-content-disposition=inline%3Bfilename%3D%22main_large.png%22%3B&response-content-type=image%2Fpng&Expires=1743632634&Signature=H2irOygIWRZ-k7p-6Zy2TA-uU8uOI74RCTNswOeqqbGZVmN3WtVN7rgjW3GddbHBIC63jO7LVhLtdKsv-oU2tgxSgJw-Uyhj2Ac99s6mDGc2rRwmK8QMby2Ndnv5Xvaqf8G1GQdgN598Kgjgird5adMszOenHfwshp7qkGEDOAkqfNm7wGFyima6aI0IGVUS7oyf9agksDs~gigzSoEKQYUDPd68CZwvSB8Fc2N7eKZlJFCtWnOVE4Wc4A18NDSxsdzNTQ6uRSWOn8yj9Zdp1tJjKHmLHwKPaZIEiPMgwy81Fk4ptH53om-phPjvAO5V0PSVQinoL~BLBfkV0qEQ~g__&Key-Pair-Id=APKAJT5WQLLEOADKLHBQ",
+          src: "https://scontent.fcai21-2.fna.fbcdn.net/v/t1.15752-9/488039573_591217083965554_5963000751818606823_n.png?stp=cp0_dst-png&_nc_cat=106&ccb=1-7&_nc_sid=9f807c&_nc_ohc=Qm_ULD9wGBYQ7kNvgHp-dwn&_nc_oc=Adl_F-LGf1Wa_B2AJi5Lf513Xd9IjJqjTSx1hx_VQUCvAerEvzsKLWdO9A7krVcVggs&_nc_zt=23&_nc_ht=scontent.fcai21-2.fna&oh=03_Q7cD1wFptPY6_aHcZpn2jPG-J4p9gijZPfj5cReRwUTO_R7IqA&oe=681539D3",
         },
         {
           title: "Backend Java Developer",
           description:
             "Contributed to backend development projects, focusing on Java and Spring Boot.",
-          src: "https://d142ifyzxiteda.cloudfront.net/s3gpp7%2Fpreview%2F65864932%2Fmain_large.png?response-content-disposition=inline%3Bfilename%3D%22main_large.png%22%3B&response-content-type=image%2Fpng&Expires=1743632652&Signature=K5jUjL8jpepvxa1CgXNzmtMN1tj5mLD~ZEK9QNuK7~aRnXe-1avIEb-eCd3eiNnRXVS2IxhVR379xPg1-v~u9WxaEuRDfin1mTfvPOxpWLXO~VpaSC6LnPDwoxvhGsxlr43LtbY29jVQjDYzNRKsu~PAVrD7wQf3x7F~4PZDK2HilGJZ1~CPUA1eUbjVSaQ1~ept7C3ptoewFdW2Bff9UT4adQFRdkwSa8iDX4AOdUfbo2zsZSftQ5eC6Ml-N5xMq-RNKz88IbJeK463ofN20Xte-FuHY5O5B29yWMWkyHsC9ShDqbWxc6JRoK6CfDxo7mbXqwSVHuSV6BjaQsSp7w__&Key-Pair-Id=APKAJT5WQLLEOADKLHBQ",
+          src: "https://scontent.fcai21-4.fna.fbcdn.net/v/t1.15752-9/487033336_2387346624972462_7061184434550039657_n.png?_nc_cat=102&ccb=1-7&_nc_sid=9f807c&_nc_ohc=KHLdfp8-0HYQ7kNvgHrhcGj&_nc_oc=AdnZYC-Uqm6E7hOb-6k15krMwRx5qxUh8VsIQSCqEOYJEur26qgPvKz7Ewg0JPgFzBE&_nc_zt=23&_nc_ht=scontent.fcai21-4.fna&oh=03_Q7cD1wEalbhD6brdbHC2PklRy4Grffas5FGpLc0NHz6VJdgAvw&oe=68153D8A",
         },
       ],
     };
