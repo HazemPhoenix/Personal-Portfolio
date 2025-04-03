@@ -15,7 +15,9 @@
     <div
       class="h-[15vh] md:h-[30vh] overflow-hidden bg-[url(../assets/images/world-map.png)] bg-cover rounded-[23px] md:col-span-2 md:row-span-1"
     >
-      <h2 class="text-lg md:text-3xl font-bold relative top-10 left-10">
+      <h2
+        class="text-lg md:text-3xl font-bold relative top-5 left-2 md:top-10 md:left-10"
+      >
         I'm very flexible with time zone communications
       </h2>
     </div>
